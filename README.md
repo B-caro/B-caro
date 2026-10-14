@@ -1,44 +1,27 @@
-### Hi there 👋
+# Hola, soy Jonathan Búcaro 👋
 
-<!--
-**B-caro/B-caro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy ingeniero de software enfocado en **plataformas, automatización y herramientas de IA**. Trabajo en la integración de sistemas, pipelines de entrega, instaladores multiplataforma y observabilidad. También construyo herramientas para desarrolladores y aplicaciones que combinan interfaces web con backends en Python.
 
-Here are some ideas to get you started:
+## En qué trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Plataforma y entregas:** CI/CD con Azure DevOps, validación de releases, builds e instaladores para Windows y macOS.
+- **Infraestructura y diagnóstico:** Docker, Kubernetes, Linux, entornos multiplataforma y observabilidad de logs, trazas y métricas.
+- **IA aplicada:** herramientas y servidores MCP, agentes de desarrollo y procesamiento de documentos con OCR y modelos de visión.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=b-caro" alt="hector-manny" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/50/000000/javascript.png" width="20" height="20" />
-  <img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="20" height="20" />
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="20" height="20"/>
-  </p>
-  
-  
-- 👨‍💻 All of my projects are available  [here](https://github.com/b-caro?tab=repositories)
+## Stack
 
-- 💬 Ask me about **anything**
+| Área | Tecnologías |
+| --- | --- |
+| Lenguajes | Python, Rust, TypeScript, JavaScript, Bash y PowerShell |
+| Backend y datos | APIs, SQLite, JSON y YAML |
+| Web | React, Next.js y Vue |
+| Plataforma | Docker, Kubernetes y Azure DevOps |
+| Herramientas de IA | MCP, agentes de código, OCR y modelos de visión |
 
-- 📫 How to reach me **jonathanbucaro7@gmail.com**
+## Proyectos públicos
 
-<p align="center"> 
-   <img src=https://github-readme-stats.vercel.app/api?username=b-caro&theme=blue-green&show_icons=true" alt="b-caro"/>
-  </p>
+- [Pseudo / Studio](https://github.com/B-caro/Pseudo-studio): entorno local para escribir pseudocódigo en español, analizarlo, traducirlo a Python y JavaScript y ejecutarlo en contenedores aislados.
+- [Visualizador de datasets LeRobot](https://github.com/B-caro/lerobot-hackaton): aplicación web para explorar datasets públicos de Hugging Face, construida con Next.js y React.
+- [Herramientas en Python](https://github.com/B-caro?tab=repositories&q=&type=source&language=python): otros proyectos y experimentos públicos en Python.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/jonathan-búcaro-34a3511a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jonathan-búcaro-34a3511a0/" height="20" width="20" /></a>
-  <a href="https://www.facebook.com/Bucaro.a7x/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/Bucaro.a7x/" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/bucaro.a7x/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/bucaro.a7x/" height="20" width="20" /></a>
-</p>
+📫 [Escríbeme por correo](mailto:jonathanbucaro7@gmail.com) · [Explora mis repositorios](https://github.com/B-caro?tab=repositories)
